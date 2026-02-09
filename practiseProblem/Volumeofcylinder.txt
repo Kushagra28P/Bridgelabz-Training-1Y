@@ -1,0 +1,13 @@
+class Volumeofcylinder{
+public static void main(String[] args) {
+ 
+ int r = 7;
+ int h = 14;
+   
+   
+   int volume = (3.14*r*r*h);
+    
+	System.out.println("Volume=" volume);
+	}
+	}
+	
